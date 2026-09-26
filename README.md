@@ -4,7 +4,7 @@
 This project is a digital clock built using digital logic ICs, a signal generator, and seven-segment displays to count and display time.
 
 ## Video
-[digital-clock-prototype.mp4](digital-clock-prototype.mp4)
+[digital-clock-prototype.mp4](digital-clock-prototype.mp4?raw=1)
 
 ## Hardware
 - Digital logic ICs
